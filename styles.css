@@ -1,5 +1,5 @@
 @font-face {
-    font-family: 'Classic Console Neue';
+    font-family: 'Classic Console';
     src: url(./assets/fonts/clacon2.ttf) format("truetype");
 }
 
@@ -7,7 +7,7 @@
     margin: 0;
     pad: 0;
     box-sizing: border-box;
-    font-family: 'Classic Console Neue', serif;
+    font-family: 'Classic Console', serif;
 }
 
 body {
