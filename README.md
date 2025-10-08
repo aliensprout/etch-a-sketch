@@ -22,17 +22,17 @@ I plan to add the following features to make this more intriguing:
 you can use etch-a-sketch via github's website [preview link here](https://aliensprout.github.io/etch-a-sketch/).
 the grid's default value is 88 x 88 squares.
 
-![default grid](./assets/default-grid.png)
+![default grid](./assets/images/default-grid.png)
 
 you can change the value by entering a number between 0 and 100 in the input field at the top then pressing the button "Clear / Reset Grid".
 
-![edited grid](./assets/change-grid-value.png)
+![edited grid](./assets/images/change-grid-value.png)
 
 you can also clear the board by pressing this button and the number of squares will stay the same.
 
 currently, etch-a-sketch's default paintbrush is set with a randomized rgba that changes the color upon every instance of passing over a square within the grid. I plan to create a paintbrush-color-picker.
 
-![painted grid](./assets/default-grid-paint.png)
+![painted grid](./assets/images/default-grid-paint.png)
 
 
 ## credits
