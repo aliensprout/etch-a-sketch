@@ -14,8 +14,12 @@ I first created everything only in javascript in the DOM and did not directly ad
 I plan to add the following features to make this more intriguing:
 + sound effects
 + animations
+    - ease-in-out/shaking board cleaering
 + paint brush choices
+    - gray with increasing value (pencil)
+    - single color
 + increased pixalation (number of squares)
++ functionality on moible
 
 ## how to use etch-a-sketch
 
